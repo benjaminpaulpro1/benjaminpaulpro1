@@ -1,8 +1,8 @@
-# Benjamin Paul
+<img src="https://raw.githubusercontent.com/benjaminpaulpro1/benjaminpaulpro1/main/banner.svg" alt="Benjamin Paul, backend software engineer in Minneapolis" width="100%">
 
-Backend software engineer in Minneapolis. I build services in Python, TypeScript, and Go, write the tests that break them, and evaluate AI-generated code for correctness, efficiency, and maintainability.
+I build backend services in Python, TypeScript, and Go, write the tests that break them, and evaluate AI-generated code for correctness, efficiency, and maintainability.
 
-**Portfolio:** [benjaminpaulpro1.github.io](https://benjaminpaulpro1.github.io)
+**[Portfolio](https://benjaminpaulpro1.github.io)** · **[Resume (PDF)](https://benjaminpaulpro1.github.io/resumes/BenjaminPaulResume.pdf)** · **[GoogleCleaner case study](https://benjaminpaulpro1.github.io/work/googlecleaner)**
 
 ## What I work on
 

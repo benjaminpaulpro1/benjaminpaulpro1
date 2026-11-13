@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Benjamin Paul, backend software engineer in Minneapolis">
+  <rect width="1200" height="320" rx="14" fill="#16211c"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="138" font-size="64" font-weight="700" fill="#fbfcf8" letter-spacing="-2">Benjamin Paul</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="66" y="184" font-size="21" fill="#c3cbc3">backend software engineer · minneapolis</text>
+    <text x="66" y="216" font-size="17" fill="#8fa096">python · typescript · go · testing · ai code evaluation</text>
+  </g>
+  <g transform="translate(66 250)">
+    <rect width="34" height="10" rx="5" fill="#cf5c41"/><rect x="42" width="34" height="10" rx="5" fill="#e2a33b"/>
+    <rect x="84" width="34" height="10" rx="5" fill="#3f8f68"/><rect x="126" width="34" height="10" rx="5" fill="#4d74ad"/>
+    <rect x="168" width="34" height="10" rx="5" fill="#2b9090"/><rect x="210" width="34" height="10" rx="5" fill="#80609a"/>
+  </g>
+  <rect x="742" y="62" width="400" height="216" fill="#e2a33b"/>
+  <rect x="730" y="50" width="400" height="216" fill="#24332c" stroke="#5f6f66"/>
+  <line x1="730" y1="84" x2="1130" y2="84" stroke="#5f6f66"/>
+  <circle cx="750" cy="67" r="5" fill="#cf5c41"/><circle cx="768" cy="67" r="5" fill="#e2a33b"/><circle cx="786" cy="67" r="5" fill="#3f8f68"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">
+    <text x="750" y="116"><tspan fill="#c3cbc3">$ </tspan><tspan fill="#e2a33b">whoami</tspan></text>
+    <text x="750" y="140" fill="#fbfcf8">backend software engineer, target</text>
+    <text x="750" y="176"><tspan fill="#c3cbc3">$ </tspan><tspan fill="#e2a33b">cat focus.txt</tspan></text>
+    <text x="750" y="200" fill="#fbfcf8">automated testing, ai code evaluation</text>
+    <text x="750" y="236"><tspan fill="#c3cbc3">$ </tspan><tspan fill="#e2a33b">uptime</tspan></text>
+    <text x="750" y="258" fill="#fbfcf8">4 years in production backends</text>
+  </g>
+</svg>
