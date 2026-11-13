@@ -16,8 +16,10 @@ Backend software engineer in Minneapolis. I build services in Python, TypeScript
 | Project | What it does | Stack |
 | --- | --- | --- |
 | AI Code Evaluation & Benchmarking Toolkit | Local framework for scoring AI-generated solutions against specifications, with rubrics and reference solutions | Python, Pytest, Docker |
-| [GoogleCleaner](https://benjaminpaulpro1.github.io/work/googlecleaner) | Chrome extension for reviewing Google Drive files and moving selected items to Trash. Built with [Juliana Oyola-Pabon](https://github.com/julsoyola/googleCleaner) | JavaScript, Manifest V3, Drive API |
+| [GoogleCleaner](https://benjaminpaulpro1.github.io/work/googlecleaner) | Chrome extension for reviewing Google Drive files and moving selected items to Trash. Built with [Juliana Oyola-Pabon](https://github.com/julsoyola). [Source](https://github.com/benjaminpaulpro1/googleCleaner) | JavaScript, Manifest V3, Drive API |
 | Programming Task & Testing Repository | Algorithm, API, SQL, and debugging exercises with reference implementations and automated checks | Python, TypeScript, SQL |
+| [MacWipe](https://github.com/benjaminpaulpro1/macwipe) | Native macOS app and browser demo for inspecting local storage and reviewing files before moving them to Trash. Built with [Juliana Oyola-Pabon](https://github.com/julsoyola) | Python, JavaScript, HTML |
+| [mac-cleaner](https://github.com/benjaminpaulpro1/mac-cleaner) | zsh script that reclaims disk space on macOS by clearing caches and thinning local snapshots. Built with [Juliana Oyola-Pabon](https://github.com/julsoyola) | Zsh |
 | Concurrent REST API Service | Concurrent request handling, validation, and transactions, with integration and load tests | Go, PostgreSQL, Docker |
 
 ## Toolbox
